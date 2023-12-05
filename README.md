@@ -14,13 +14,13 @@
 Fill in your details where you see this icon ✍️
 We have provided a sample Day Journey entry staring at 0. You can delete this example.
 
-## [Skibby]'s Cloud Journey
+## Skibby's Cloud Journey
 
-[Hello! I am a Computer Science student delving into the cloud realm.]
+Hello! I am a Computer Science student delving into the cloud realm.
 
-[I started this challenge in order to further my cloud journey and meet like minded individuals.]
+I started this challenge in order to further my cloud journey and meet like minded individuals.
 
-[I would like to complete my AWS DevOps Cert by the end of my journey.]
+I would like to complete my AWS DevOps Cert by the end of my journey.
 
 - [bytesizedskibby](https://twitter.com/username)
 - [sakibazaman](https://www.linkedin.com/in/username)
