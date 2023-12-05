@@ -22,8 +22,8 @@ I started this challenge in order to further my cloud journey and meet like mind
 
 I would like to complete my AWS DevOps Cert by the end of this journey.
 
-- [bytesizedskibby](https://twitter.com/username)
-- [sakibazaman](https://www.linkedin.com/in/username)
+- [Twitter](https://twitter.com/bytesizedskibby)
+- [LinkedIn](https://www.linkedin.com/in/sakibazaman)
 
 ## Stepping out the door
 
