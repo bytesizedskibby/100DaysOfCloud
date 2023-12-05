@@ -20,7 +20,7 @@ Hello! I am a Computer Science student delving into the cloud realm.
 
 I started this challenge in order to further my cloud journey and meet like minded individuals.
 
-I would like to complete my AWS DevOps Cert by the end of my journey.
+I would like to complete my AWS DevOps Cert by the end of this journey.
 
 - [bytesizedskibby](https://twitter.com/username)
 - [sakibazaman](https://www.linkedin.com/in/username)
